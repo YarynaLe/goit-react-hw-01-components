@@ -1,4 +1,4 @@
-import { networkStatus } from 'utils/networkStatus';
+
 
 import css from 'components/FriendListItem/FriendListItem.module.css';
 
