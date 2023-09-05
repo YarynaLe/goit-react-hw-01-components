@@ -40,3 +40,17 @@
 
     color: #364d68;
 }
+
+.online,
+.offline {
+    display: block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: green;
+    margin-right: 50px;
+}
+
+.offline {
+    background-color: red;
+}
