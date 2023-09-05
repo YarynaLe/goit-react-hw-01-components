@@ -23,3 +23,4 @@ export const Statistics = ({ title, stats }) => {
     </section>
   );
 };
+
